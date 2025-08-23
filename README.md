@@ -4,7 +4,7 @@
 
 <div align="center">
    
-| <h5> 🗓️ 25/08/23 ~ 25/09/30 </h5> |
+| <h5> 🗓️ 25/08/23 ~ 25/10/01 </h5> |
 | --- |
 | <img width="200" alt="image" src="https://github.com/user-attachments/assets/365a8fff-e5df-4192-8aff-dbda09468713"/> |
 
@@ -156,4 +156,5 @@
   </tr>
 </table>
 </div>
+
 
