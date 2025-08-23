@@ -33,7 +33,7 @@
     - `contribute -> Open pull request -> Create pull request -> Create pull request`
     - 참고 : [스터디 GitHub 사용 방법](https://velog.io/@mandarin913/%EC%8A%A4%ED%84%B0%EB%94%94-GitHub-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 - 발표자 외 스터디원:
-  - 해당 챕터에 대한 문제를 스터디 하루 전까지 [discussions > Q&A](https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a)에 .
+  - 해당 챕터에 대한 문제를 스터디 하루 전까지 [discussions > Q&A](https://github.com/roxie-dev/Python-Book-Study/discussions/categories/q-a)에 .
   - 질문은 템플릿을 참고하여 작성해 주세요.
   - 스터디 당일 모임 시작 1시간 전까지 문제의 정답을 업로드해주세요.
 
@@ -156,3 +156,4 @@
   </tr>
 </table>
 </div>
+
