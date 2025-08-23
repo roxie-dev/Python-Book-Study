@@ -134,6 +134,22 @@
 <br/>
 <br/>
 
+# <div align="center"> <h5> 👋 멘토 소개 </h5> </div> 
+
+<div align="center">
+  <table>
+  <tr>
+    <td align="center"> 
+      <img src="https://avatars.githubusercontent.com/u/44606727?v=4" width="100px;" alt="주환석"/>   
+      <br/>
+      주환석
+      <br/>
+      <a href="https://github.com/tiaz0128"><b>@JOO HWAN SEOK</b></a> 
+    </td> 
+  </tr>
+</table>
+</div>
+
 # <div align="center"> <h5> 👋 스터디원 소개 </h5> </div>
 
 <div align="center">
@@ -157,6 +173,7 @@
   </tr>
 </table>
 </div>
+
 
 
 
