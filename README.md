@@ -151,6 +151,8 @@
 </table>
 </div>
 
+<br />
+
 # <div align="center"> <h5> 👋 스터디원 소개 </h5> </div>
 
 <div align="center">
@@ -174,6 +176,7 @@
   </tr>
 </table>
 </div>
+
 
 
 
