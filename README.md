@@ -144,6 +144,8 @@
       주환석
       <br/>
       <a href="https://github.com/tiaz0128"><b>@JOO HWAN SEOK</b></a> 
+       <br/>
+       <a href="https://tiaz.dev/">blog</a>
     </td> 
   </tr>
 </table>
@@ -172,6 +174,7 @@
   </tr>
 </table>
 </div>
+
 
 
 
