@@ -75,7 +75,7 @@
     <td >9/03(수)</td>
     <td> <b>[4장] 반복문</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B1%EC%9E%A5%5D%20AWS%EB%9E%80">정리</a></td>  
-    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
+    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">질문</a></td> 
     <td > <b>김민정</b></td>  
   </tr> 
  
@@ -86,7 +86,7 @@
     <td >9/10(수)</td>
     <td> <b>[5장] 함수</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B1%EC%9E%A5%5D%20AWS%EB%9E%80">정리</a></td>  
-    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
+    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">질문</a></td> 
     <td > <b>김민정</b></td>  
   </tr> 
    
@@ -98,7 +98,7 @@
     <td >9/17(수)</td>
     <td> <b>[6장] 예외 처리</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B1%EC%9E%A5%5D%20AWS%EB%9E%80">정리</a></td>  
-    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
+    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">질문</a></td> 
     <td > <b>김민정</b></td>  
   </tr> 
    <tr>
@@ -108,7 +108,7 @@
     <td >9/24(수)</td>
     <td> <b>[7장] 모듈</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B1%EC%9E%A5%5D%20AWS%EB%9E%80">정리</a></td>  
-    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
+    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">질문</a></td> 
     <td > <b>김민정</b></td>  
   </tr> 
   <tr>
@@ -118,7 +118,7 @@
     <td >10/01(수)</td>
     <td> <b>[8장] 클래스</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B1%EC%9E%A5%5D%20AWS%EB%9E%80">정리</a></td>  
-    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
+    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">질문</a></td> 
     <td > <b>김민정</b></td>  
   </tr> 
   <tr>
@@ -157,6 +157,7 @@
   </tr>
 </table>
 </div>
+
 
 
 
