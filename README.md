@@ -23,8 +23,12 @@
 
 ### 🚀 참여 방법
 
-- 매주 3챕터씩 주차별 학습 일정표에 맞춰 해당 챕터를 미리 공부해요
+- 매주 1챕터씩 주차별 학습 일정표에 맞춰 해당 챕터를 미리 공부해요
 - 발표자: 매주 돌아가며 한 명이 발표를 준비해요 (10분 내외)
+- 발표자 외 스터디원:
+  - 해당 챕터에 대한 질문을 스터디 하루 전까지 [discussions > Q&A](https://github.com/roxie-dev/Python-Book-Study/discussions/categories/q-a)에 올려주세요.
+  - 질문은 템플릿을 참고하여 작성해 주세요.
+  - 멘토님은 스터디 시작 1시간 전까지 질문에 대한 답을 업로드 해주세요.
 - Github 스터디 사용 방법
   - 정리 내용은 `Python-Book-Study` 레포지토리를 fork한 후.
   - 본인 github id로 브랜치를 생성하여 해당 주차 폴더에 '[내이름].md' 파일로 기록 해주세요.
@@ -32,10 +36,7 @@
   - fork한 레포지토리에서 pull-request 요청을 합니다.
     - `contribute -> Open pull request -> Create pull request -> Create pull request`
     - 참고 : [스터디 GitHub 사용 방법](https://velog.io/@mandarin913/%EC%8A%A4%ED%84%B0%EB%94%94-GitHub-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
-- 발표자 외 스터디원:
-  - 해당 챕터에 대한 문제를 스터디 하루 전까지 [discussions > Q&A](https://github.com/roxie-dev/Python-Book-Study/discussions/categories/q-a)에 .
-  - 질문은 템플릿을 참고하여 작성해 주세요.
-  - 스터디 당일 모임 시작 1시간 전까지 문제의 정답을 업로드해주세요.
+
 
 <br />
 
@@ -156,6 +157,7 @@
   </tr>
 </table>
 </div>
+
 
 
 
