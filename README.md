@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=roxie-dev.AWS-TextBook-Study)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=roxie-dev.Python-Book-Study)
 
 # <div align="center"> 📖 [혼자 공부하는 파이썬] 북 스터디 📖 </div>
 
@@ -64,81 +64,68 @@
     <th colspan="5">0주차</th>
   </tr>
   <tr>
-    <td>5/14(수)</td>
-    <td  colspan="4">OT :  AWS 교과서를 공부하게 된 이유 및 자기소개</td>
+    <td>8/27(수)</td>
+    <td  colspan="4">OT : 스터디 운영 공유 및 자기소개</td>
   </tr>
   <tr>
     <th colspan="5">1주차</th>
   </tr>
   <tr>
-    <td rowspan="3">5/21(수)</td>
-    <td> <b>[1장] AWS란</b></td>
+    <td >9/03(수)</td>
+    <td> <b>[4장] 반복문</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B1%EC%9E%A5%5D%20AWS%EB%9E%80">정리</a></td>  
-    <td rowspan="3"><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
-    <td rowspan="3"> <b>김도현</b></td>  
+    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
+    <td > <b>김민정</b></td>  
   </tr> 
-   <tr> 
-    <td> <b>[2장] AWS 컴퓨팅 서비스</b></td>
-    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B2%EC%9E%A5%5D%20AWS%20%EC%BB%B4%ED%93%A8%ED%8C%85%20%EC%84%9C%EB%B9%84%EC%8A%A4">정리</a></td>  
-  </tr>
- <tr> 
-    <td> <b>[3장] AWS 네트워킹 서비스</b></td>
-    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B3%EC%9E%A5%5D%20AWS%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4">정리</a></td>  
-  </tr>
+ 
   <tr>
     <th colspan="5">2주차</th>
   </tr> 
    <tr>
-    <td rowspan="3">5/28(수)</td>
-    <td> <b>[4장] AWS 부하분산 서비스</b></td>
-    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/2%EC%A3%BC/%5B4%EC%9E%A5%5D%20AWS%20%EB%B6%80%ED%95%98%EB%B6%84%EC%82%B0%20%EC%84%9C%EB%B9%84%EC%8A%A4">정리</a></td>
-    <td rowspan="3"><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
-    <td rowspan="3"> <b>배진우</b></td>  
-  </tr>
-  <tr> 
-    <td> <b>[5장] AWS 스토리지 서비스</b></td>
-    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/2%EC%A3%BC/%5B5%EC%9E%A5%5D%20AWS%20%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80%20%EC%84%9C%EB%B9%84%EC%8A%A4">정리</a></td> 
-  </tr>
-    <tr> 
-    <td> <b>[6장] AWS 데이터베이스 서비스</b></td>
-    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/2%EC%A3%BC/%5B6%EC%9E%A5%5D%20AWS%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%9C%EB%B9%84%EC%8A%A4">정리</a></td> 
-  </tr>
+    <td >9/10(수)</td>
+    <td> <b>[5장] 함수</b></td>
+    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B1%EC%9E%A5%5D%20AWS%EB%9E%80">정리</a></td>  
+    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
+    <td > <b>김민정</b></td>  
+  </tr> 
+   
   <tr>
     <th colspan="5">3주차</th>
   </tr>
   
-   <tr>
-    <td rowspan="3">6/4(수)</td>
-    <td> <b>[7장] AWS 고급 네트워킹 서비스</b></td>
-    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/3%EC%A3%BC/%5B7%EC%9E%A5%5D%20AWS%20%EA%B3%A0%EA%B8%89%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4">정리</a></td>
-    <td rowspan="3"><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
-    <td rowspan="3"> <b>신상철</b></td>  
-  </tr>
-  <tr> 
-    <td> <b>[8장] AWS LAM 서비스</b></td>
-    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/3%EC%A3%BC/%5B8%EC%9E%A5%5D%20AWS%20LAM%20%EC%84%9C%EB%B9%84%EC%8A%A4">정리</a></td> 
-  </tr>
    <tr> 
-    <td> <b>[9장] AWS 오토 스케일링 서비스</b></td>
-    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/3%EC%A3%BC/%5B9%EC%9E%A5%5D%20AWS%20%EC%98%A4%ED%86%A0%20%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81%20%EC%84%9C%EB%B9%84%EC%8A%A4">정리</a></td> 
-  </tr>
+    <td >9/17(수)</td>
+    <td> <b>[6장] 예외 처리</b></td>
+    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B1%EC%9E%A5%5D%20AWS%EB%9E%80">정리</a></td>  
+    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
+    <td > <b>김민정</b></td>  
+  </tr> 
    <tr>
     <th colspan="5">4주차</th>
   </tr>
    <tr>
-    <td rowspan="2">6/11(수)</td>
-    <td> <b>[10장] 워드프레스</b></td>
-    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/4%EC%A3%BC/%5B10%EC%9E%A5%5D%20%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4">정리</a></td>
-    <td rowspan="2"><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td>
-    <td rowspan="2"> <b>김민정</b></td> 
-  </tr>
-   <tr> 
-    <td> <b>[11장] 워드프레스 이중화 </b></td>
-    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/4%EC%A3%BC/%5B11%EC%9E%A5%5D%20%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%20%EC%9D%B4%EC%A4%91%ED%99%94">정리</a></td> 
+    <td >9/24(수)</td>
+    <td> <b>[7장] 모듈</b></td>
+    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B1%EC%9E%A5%5D%20AWS%EB%9E%80">정리</a></td>  
+    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
+    <td > <b>김민정</b></td>  
   </tr> 
+  <tr>
+    <th colspan="5">5주차</th>
+  </tr>
+   <tr>
+    <td >10/01(수)</td>
+    <td> <b>[8장] 클래스</b></td>
+    <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B1%EC%9E%A5%5D%20AWS%EB%9E%80">정리</a></td>  
+    <td  ><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
+    <td > <b>김민정</b></td>  
+  </tr> 
+  <tr>
+    <th colspan="5">회식</th>
+  </tr>
  <tr>
     <td>협의</td> 
-    <td colspan="5"> <b>오프라인 회식(익명 투표로 결정)</b></td>  
+    <td colspan="5"> <b>오프라인 회식(투표로 결정)</b></td>  
   </tr>  
 </table> 
 </div>
@@ -150,7 +137,7 @@
 
 <div align="center">
 
-[출석 현황 보러가기](https://github.com/roxie-dev/AWS-TextBook-Study/discussions/1)
+[출석 현황 보러가기](https://github.com/roxie-dev/Python-Book-Study/discussions/1)
 
 </div>
 
@@ -160,7 +147,7 @@
     <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민정"/>  
       <br/> 
-      <img src="https://img.shields.io/badge/출석률-0%2F4-blue?style=flat-square"/>   
+      <img src="https://img.shields.io/badge/출석률-0%2F5-blue?style=flat-square"/>   
       <br/>
       김민정
       <br/>
