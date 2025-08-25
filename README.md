@@ -27,7 +27,7 @@
 - 매주 돌아가며 한 명이 발표를 준비해요 (10분 내외)
 - 해당 챕터에 대한 질문을 스터디 하루 전까지 [discussions > Q&A](https://github.com/roxie-dev/Python-Book-Study/discussions/categories/q-a)에 올려주세요.
 - 질문은 템플릿을 참고하여 작성해 주세요.
-- `멘토님`은 스터디 시작 1시간 전까지 질문에 대한 답을 업로드 해주세요.
+- 스터디 시작 1시간 전까지 질문에 대한 답을 업로드 해주세요.
 - Github 스터디 사용 방법
   - 정리 내용은 `Python-Book-Study` 레포지토리를 fork한 후.
   - 본인 github id로 브랜치를 생성하여 해당 주차 폴더에 '[내이름].md' 파일로 기록 해주세요.
@@ -132,26 +132,7 @@
 
 <br/>
 <br/>
-
-# <div align="center"> <h5> 👋 멘토 소개 </h5> </div> 
-
-<div align="center">
-  <table>
-  <tr>
-    <td align="center"> 
-      <img src="https://avatars.githubusercontent.com/u/44606727?v=4" width="100px;" alt="주환석"/>   
-      <br/>
-      주환석
-      <br/>
-      <a href="https://github.com/tiaz0128"><b>@JOO HWAN SEOK</b></a> 
-       <br/>
-       <a href="https://tiaz.dev/">blog</a>
-    </td> 
-  </tr>
-</table>
-</div>
-
-<br />
+ 
 
 # <div align="center"> <h5> 👋 스터디원 소개 </h5> </div>
 
@@ -176,6 +157,7 @@
   </tr>
 </table>
 </div>
+
 
 
 
